@@ -1,5 +1,6 @@
 # FuzzJailbreakCounter: 一种用于发现LLMs中越狱漏洞的创新通用模糊测试框架
 > 可访问 [作品主页](https://btlazzq.github.io/Demo_FuzzJailbreakCounter/)。
+
 ![image](https://btlazzq.github.io/images/overview.png)
 
 ## 介绍
